@@ -1,0 +1,7 @@
+BMW, 330i Coupe, 2004, 30000, 5
+Color, Package, Transmission, Side Impact Airbags, Sunroof
+Alpine White, 0, Oxford Green, 0, Mystic Blue, 0, Titanium Silver, 0, Black Sapphire, 0
+Standard, 0, Premium, 1000, Sport, 1500, Cold Weather, 1000, Performance, 5000
+Automatic 5-Spd, 0, Manual 5-Spd, 0
+present, 400, not present, 0
+present, 500, not present, 0

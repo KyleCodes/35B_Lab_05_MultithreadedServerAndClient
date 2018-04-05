@@ -1,0 +1,136 @@
+C: created socket
+C: Creating session with localhost : 8009
+
+C: //////////////////////////////////////////////
+C: ==============================================
+C:            Please select an option 
+C: 
+C:      1) Upload Properties file  
+C:      2) Browse Server Catalogue  
+C:      3) Quit
+C: 
+C:      ----> 1
+C: Please provide path to Properties file
+     ----> bmw_330i_coupe_2004.txt
+
+C: Sending properties file
+C: BMW 330i Coupe 2004 successfully processed
+
+C: //////////////////////////////////////////////
+C: ==============================================
+C:            Please select an option 
+C: 
+C:      1) Upload Properties file  
+C:      2) Browse Server Catalogue  
+C:      3) Quit
+C: 
+C:      ----> 1
+C: Please provide path to Properties file
+     ----> ford_focus_wgn_ztw_2010.txt
+
+C: Sending properties file
+C: Ford Focus ZTW 2010 successfully processed
+
+C: //////////////////////////////////////////////
+C: ==============================================
+C:            Please select an option 
+C: 
+C:      1) Upload Properties file  
+C:      2) Browse Server Catalogue  
+C:      3) Quit
+C: 
+C:      ----> 2
+
+C:====================================
+C:	$30000	BMW 330i Coupe 2004
+
+C:====================================
+C:	$18445	Ford Focus ZTW 2010
+
+C: Please copy and paste your selected choice (ignore price)
+C: EX) make model year 
+     ----> BMW 330i Coupe 2004
+
+C: Retrieving BMW 330i Coupe 2004 from Server
+C: Successfully received BMW 330i Coupe 2004
+=========================================
+
+	BMW 330i Coupe 2004
+
+Base Price: $30000
+Options   :  5
+
+	____________________________
+	Color
+	   - $0 	Alpine White		
+	   - $0 	Oxford Green		
+	   - $0 	Mystic Blue		
+	   - $0 	Titanium Silver		
+	   - $0 	Black Sapphire		
+	____________________________
+	Package
+	   - $0 	Standard		
+	   - $1000 	Premium		
+	   - $1500 	Sport		
+	   - $1000 	Cold Weather		
+	   - $5000 	Performance		
+	____________________________
+	Transmission
+	   - $0 	Automatic 5-Spd		
+	   - $0 	Manual 5-Spd		
+	____________________________
+	Side Impact Airbags
+	   - $400 	present		
+	   - $0 	not present		
+	____________________________
+	Sunroof
+	   - $500 	present		
+	   - $0 	not present		
+
+C: //////////////////////////////////////////////
+C:         Car Configuration Menu        
+C:
+C: Enter username: 
+C: ----> Kyle
+C: Enter choice selection for Color
+C: ----> Alpine White
+Choice successfully added
+C: Enter choice selection for Package
+C: ----> $5000 	Performance
+Choice wasn't added
+C: Enter choice selection for Transmission
+C: ----> Manual 5-Spd
+Choice successfully added
+C: Enter choice selection for Side Impact Airbags
+C: ----> present
+Choice successfully added
+C: Enter choice selection for Sunroof
+C: ----> present
+Choice successfully added
+C: Successfully configered choices
+=========================================
+
+	Kyle's BMW 330i Coupe 2004
+
+		 Chosen Options:
+
+	   - $0 	Alpine White		
+	   - $0 	Manual 5-Spd		
+	   - $400 	present		
+	   - $500 	present		
+
+		BASE PRICE: $30000
+		FEATURES  : $900
+		TOTAL     : $30900
+
+
+C: //////////////////////////////////////////////
+C: ==============================================
+C:            Please select an option 
+C: 
+C:      1) Upload Properties file  
+C:      2) Browse Server Catalogue  
+C:      3) Quit
+C: 
+C:      ----> 3
+C: Goodbye!

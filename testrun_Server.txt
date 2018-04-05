@@ -1,0 +1,14 @@
+S: Serversocket successfully created
+S: Client accepted
+S: Client response: inputProps
+S: Receiving properties file from client
+S: BMW 330i Coupe 2004 successfully processed
+S: Client response: inputProps
+S: Receiving properties file from client
+S: Ford Focus ZTW 2010 successfully processed
+S: Client response: getList
+S: Databse sent to client. Waiting for choice
+S: Sending Automobile to client
+S: Sent
+S: Client response: quit
+S: Disconnecting client.
